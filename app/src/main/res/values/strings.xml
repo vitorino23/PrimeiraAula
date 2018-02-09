@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">PrimeiraAula</string>
+    <string name="label_botao_numero_da_sorte">Generate number</string>
+    <string name="label_numero" translatable="false">0</string>
+</resources>
